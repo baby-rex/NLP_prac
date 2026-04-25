@@ -2,21 +2,6 @@
 
 This repository contains my hands-on practice work in Machine Learning, Deep Learning, and Natural Language Processing (NLP), focused on building strong fundamentals through implementation and experimentation.
 
----
-
-## Structure
-
-NLP_prac/
-├── NLP/
-├── Deep_Learning/
-├── Mini_Projects/
-├── datasets/
-├── utils/
-├── requirements.txt
-└── README.md
-
----
-
 ## Work Included
 
 - TF-IDF, Bag of Words, N-grams  
